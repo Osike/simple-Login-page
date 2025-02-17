@@ -21,5 +21,5 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });//change 1
 
-    }
+    }//ohooo am trying things outam
 }
